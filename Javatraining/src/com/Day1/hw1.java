@@ -8,6 +8,6 @@ public class hw1 {
         }
         String company = args[0];
         String location = args[1];
-        System.out.print.ln(company + " Technologies " + location);
+        System.out.println(company + " Technologies " + location);
     }
 }
